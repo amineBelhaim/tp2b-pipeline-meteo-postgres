@@ -125,10 +125,10 @@ Les 4 tâches en succès :
 
 ![DAG run](dag_run.png)
 
-Contenu de la table métier après le run :
-
-![weather_observations](preuve_weather.png)
+Contenu des logs pour chaque taches :
+![weather_observations](fetch_weather.png)
+![weather_load](load_weather_postgres.png)
 
 Ligne de suivi dans la table d'ingestion :
 
-![ingestion_runs](preuve_ingestion.png)
+![ingestion_runs](write_ingestion.png)
