@@ -126,9 +126,10 @@ Les 4 tâches en succès :
 ![DAG run](dag_run.png)
 
 Contenu des logs pour chaque taches :
-![weather_observations](fetch_weather.png)
+![weather_observations](fetch_weather_data.png)
+![weather_transform](transform_weather.png)
 ![weather_load](load_weather_postgres.png)
 
 Ligne de suivi dans la table d'ingestion :
 
-![ingestion_runs](write_ingestion.png)
+![ingestion_runs](write_ingestion_log.png)
