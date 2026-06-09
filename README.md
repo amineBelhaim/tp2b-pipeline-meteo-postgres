@@ -133,3 +133,6 @@ Contenu des logs pour chaque taches :
 Ligne de suivi dans la table d'ingestion :
 
 ![ingestion_runs](write_ingestion_log.png)
+
+![sql_table](table_sql.png)
+
